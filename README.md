@@ -1,8 +1,6 @@
 # SourChimeraHunt
-is a command line based tool to extract chimera sequences from a multiple CCS containing FASTA file. 
-
-It uses MinHashing from [sourmash](https://github.com/dib-lab/sourmash "sourmash @ Github") Python API ([Brown et al. 2016](https://joss.theoj.org/papers/3d793c6e7db683bee7c03377a4a7f3c9)) and reference based chimera detection from [vsearch](https://github.com/torognes/vsearch "vsearch @ GitHub") ([Rognes et al. 2016](https://peerj.com/articles/2584/)) to do so.
-
+is a command line based tool to extract chimera sequences from a multiple CCS containing FASTA file.\
+It uses MinHashing from [sourmash](https://github.com/dib-lab/sourmash "sourmash @ Github") Python API ([Brown et al. 2016](https://joss.theoj.org/papers/3d793c6e7db683bee7c03377a4a7f3c9)) and reference based chimera detection from [vsearch](https://github.com/torognes/vsearch "vsearch @ GitHub") ([Rognes et al. 2016](https://peerj.com/articles/2584/)) to do so.\
 To operate SourChimeraHunt needs at least the positional arguments: the input file and a reference database, both in FASTA format.
 
 
