@@ -5,10 +5,8 @@ To operate SourChimeraHunt needs at least the positional arguments: the input fi
 
 
 ## Requirements
-[Python](https://www.python.org/downloads "Download Python") 2.7 or 3
-
-[sourmash](https://github.com/dib-lab/sourmash "sourmash @ Github")
-
+[Python](https://www.python.org/downloads "Download Python") 2.7 or 3\
+[sourmash](https://github.com/dib-lab/sourmash "sourmash @ Github")\
 [vsearch](https://github.com/torognes/vsearch "vsearch @ GitHub")
 
 
