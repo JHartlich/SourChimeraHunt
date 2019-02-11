@@ -17,7 +17,7 @@ To operate SourChimeraHunt needs at least the positional arguments: the input fi
 ### Positional Arguments:
 ```
   INPUT           name of input FASTA file containing multiple FASTA sequences
-  DATABASE        name of database in FASTA format used for reference based chimera detection vie vsearch
+  DATABASE        name of database in FASTA format used for reference based chimera detection via vsearch
 ```
 
 ### Optional Arguments:
