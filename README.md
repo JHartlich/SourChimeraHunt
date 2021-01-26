@@ -27,5 +27,5 @@ To operate SourChimeraHunt needs at least the positional arguments: the input fi
   - h, --help     show help message and exit
   - sdb SECONDB   name of database in FASTA format used for secondary reference based chimera detection via vsearch
   - k   KSIZE     k-mer size for hash calculation, default: 20 nt
-  - l   LENGTH    length cut off to filter to short sequences, default: 1400 nt
+  - l   LENGTH    length cut off to filter too short sequences, default: 1400 nt
 ```
